@@ -6,5 +6,6 @@ public class Test {
         System.out.println("cccdd3");
         System.out.println("bbbbbbbbb");
         System.out.println("ccccccccc");
+        System.out.println("bug修复");
     }
 }
